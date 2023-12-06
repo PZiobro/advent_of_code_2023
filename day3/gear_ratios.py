@@ -1,5 +1,6 @@
 import re
 
+
 def find_symbols(file):
     symbols = [[False for i in range(142)] for j in range(142)]
     i = 1
